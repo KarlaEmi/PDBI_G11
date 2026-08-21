@@ -8,3 +8,11 @@ Repositorio oficial del grupo 11 de proyecto de biodiseño 1, 2026-II
 | Valeria Ivannia Valdivia Pari | - | Ing. de Tejidos | valeria.valdivia.p@upch.pe |
 | Ivanna Jael Rodríguez Cruz | - | - | ivanna.rodriguez@upch.pe |
 | Gabriela Mía Barrios Cárdenas | - | - | Gabriela.barrios@upch.pe |
+# FOTO GRUPAL
+
+# PROBLEMÁTICAS SELECCIONADAS
+- Sobrecarga por patrones biomecánicos disfuncionales. La repetición de gestos técnicos deficientes en fases de impacto genera microtraumatismos acumulativos, acelerando el desgaste articular y limitando el rendimiento deportivo a largo plazo.
+
+- Gestión del riesgo tromboembólico mediante rehabilitación física de baja adherencia. La combinación de miedo al movimiento, déficit de supervisión clínica y baja tolerancia al esfuerzo genera una ejecución incorrecta de los ejercicios de bomba muscular, reduciendo el retorno venoso efectivo y aumentando el riesgo de complicaciones graves.
+
+- Vulnerabilidad inflamatoria e infecciosa de la glándula mamaria por ausencia de monitorización preventiva. La falta de herramientas de detección temprana (como el análisis de biomarcadores en el flujo de leche) retrasa el diagnóstico de la mastitis subclínica, derivando en cuadros agudos de dolor severo, interrupción forzada de la lactancia y uso innecesario de antibióticos.
