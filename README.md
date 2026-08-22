@@ -6,7 +6,7 @@ Repositorio oficial del grupo 11 de proyecto de biodiseño 1, 2026-II
 | Karla Emily García Rojas | Electrónica | Bioinformática, ML, IA, Biología Molecular  | karla.garcia.r@upch.pe |
 | Anjali Ximena Calero Santa Cruz | - | - | anjali.calero@upch.pe |
 | Valeria Ivannia Valdivia Pari | - | Ing. de Tejidos | valeria.valdivia.p@upch.pe |
-| Ivanna Jael Rodríguez Cruz | Programación | Bioinformática, ML, Ing. Clinica| ivanna.rodriguez@upch.pe |
+| Ivanna Jael Rodríguez Cruz | Programación | Bioinformática, ML, Ing. Clínica| ivanna.rodriguez@upch.pe |
 | Gabriela Mía Barrios Cárdenas | Electrónica / Implementación | - | Gabriela.barrios@upch.pe |
 # FOTO GRUPAL
 
