@@ -9,6 +9,7 @@ Repositorio oficial del grupo 11 de proyecto de biodiseño 1, 2026-II
 | Ivanna Jael Rodríguez Cruz | Programación | Bioinformática, ML, Ing. Clínica| ivanna.rodriguez@upch.pe |
 | Gabriela Mía Barrios Cárdenas | Electrónica / Implementación | Electrónica, ML, Bioinformàtica | gabriela.barrios@upch.pe |
 # FOTO GRUPAL
+<img width="960" height="1280" alt="WhatsApp Image 2026-08-22 at 11 09 29 AM" src="https://github.com/user-attachments/assets/1279daed-f056-4157-beba-da92a7d74520" />
 
 # PROBLEMÁTICAS SELECCIONADAS
 - Sobrecarga por patrones biomecánicos disfuncionales. La repetición de gestos técnicos deficientes en fases de impacto genera microtraumatismos acumulativos, acelerando el desgaste articular y limitando el rendimiento deportivo a largo plazo.
