@@ -10,3 +10,5 @@ https://clinicaltrials.gov/study/NCT04979026
 https://repositorio.urp.edu.pe/bitstreams/512128b1-f02d-48af-ba8a-ff13a61e80ef/download
 - Sociedad Argentina de Cardiología. (2025). Puntaje de Wells
 https://www.sac.org.ar/wp-content/uploads/2025/04/COMPLETO-G.pdf
+- ThroboUS
+https://thrombus.eu
