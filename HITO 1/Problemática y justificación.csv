@@ -1,0 +1,63 @@
+﻿Título,Descripción,Tema,Puntos Clave,URL,Tipo
+Acerca del tromboembolismo venoso (coágulos de sangre),"Describe generalmente lo siguiente: 
+• Descripción general
+• Signos y síntomas
+• Factores de riesgo
+• Prevención
+• Pruebas y diagnóstico
+• Tratamiento y recuperación",Definición,"• El tromboembolismo venoso (TEV) incluye tanto la trombosis venosa profunda (TVP) como la embolia pulmonar (EP).
+• La TVP ocurre cuando se desarrolla un coágulo de sangre en las venas profundas, más comúnmente en las piernas. Requiere atención médica inmediata.
+• La EP ocurre cuando una parte del coágulo de sangre se rompe y viaja a los pulmones. Requiere atención médica inmediata.
+• La TVP y la EP son afecciones graves pero a menudo prevenibles.",https://www.cdc.gov/blood-clots/about/index.html,Página web
+Tecnología para el diagnóstico de la trombosis,"Desarrolla de manera general:
+  • Dispositivo microfluídico e Inteligencia Artificial para analizar el riesgo de TVP
+  • Apps para controlar el riesgo de TVP","Definición, Tratamiento/recuperación","  • Dispositivo microfluídico que puede analizar los niveles de coagulación de la sangre 
+  • Un algoritmo denominado AutoTVP que, conectado a un dispositivo portátil de ultrasonidos, puede identificar a los pacientes que sufren este tipo de trombosis con una efectividad del 97%.
+  • Aplicaciones móviles complementarias que ayudan a los pacientes a conocer su estado, resolver dudas y garantizar la adherencia al tratamiento",https://www.rocheplus.es/actualidad/hematologia/trombosis.html,Página web
+Aplicación de escala de Wells en pacientes hospitalizados paraidentificar posible trombosis venosa profunda; Hospital RegionalLambayeque 2023,"Se presenta un estudio descriptivo de tipo simple, aplicando una encuesta que incluía datos demográficos junto con los ítems de la Escala de Wells para identificar a los pacientes hospitalizados que puedan padecer trombosis venosa profunda en el servicio de medicina interna del Hospital Regional Lambayeque","Definición, Porcentajes y métricas","  •  El 43% de los pacientes presentó un alto riesgo de desarrollar TVP, un 39% riesgo moderado y solo un 18% riesgo bajo.  
+  • Criterios de Wells más prevalentes: La inmovilidad mayor a 3 días o cirugía reciente fue el factor predominante (presente en el 82.22% de los casos), seguido de parálisis/paresia de miembros inferiores (46.67%), dolor en el trayecto venoso profundo (31.11%) y edema generalizado de la extremidad (31.11%).  
+  • Comorbilidades asociadas: Las infecciones (78.89%) y los trastornos de hipercoagulabilidad (36.67%) 
+  •  Factores con significancia estadística: Presencia de cáncer activo, cirugía ortopédica reciente e infección.
+  • Justificación de salud pública: Resalta la falta de estadísticas oficiales detalladas sobre TVP a nivel nacional (Perú/INEI) y la necesidad de aplicar herramientas de estratificación de riesgo y protocolos de movilización temprana en entornos hospitalarios.",https://repositorio.usat.edu.pe/server/api/core/bitstreams/494cae58-be38-4e77-971d-deedc7b8a0bd/content,Tesis
+Physiopedia — Deep Vein Thrombosis,"Describe superficialmente:
+  • Epidemiología
+  • Patología
+  • Factores de riesgo
+  • Presentación Clínica
+  • Regla de predicción (Well’s criteria)
+  • Test clínicos y procedimientos diagnósticos
+  • Tratamientos/intervenciones
+  • Implicaciones de la terapia física","Identificación de necesidades, Importancia de los ejercicios, Tratamiento/recuperación","  • Tríada de Virchow: Explica la fisiopatología de la TVP: estasis sanguínea, lesión endotelial e hipercoagulabilidad . 
+  • Escala de Wells: Estratifica la probabilidad previa del paciente y definir si se requieren pruebas confirmatorias.  
+  • Limitaciones de las pruebas físicas: La exploración física y las pruebas manuales tradicionales (como el signo de Homan) tienen muy baja precisión e insensibilidad; la clínica no es suficiente para confirmar el diagnóstico y se requiere ecografía Doppler. 
+  • Tratamiento físico y ejercicios: La terapia de compresión graduada y los ejercicios de la bomba muscular de la pantorrilla (como ankle pumps o flexiones de tobillo) para promover el retorno venoso, reducir el edema y prevenir complicaciones estáticas|",https://www.physio-pedia.com/Deep_Vein_Thrombosis,Página web
+Meta-analysis of the effectiveness of ankle pump exercise combined with anticoagulant therapy for the prevention of post-operative lower extremity deep vein thrombosis,"
+Un estudio de meta-análisis que evalúa si combinar ejercicios de ankle pump con terapia anticoagulante es más efectivo que usar solo anticoagulantes para prevenir la TVP en las piernas tras una cirugía. 
+
+","Importancia de los ejercicios, Tratamiento/recuperación","  • La combinación de ejercicio de tobillo y medicamentos anticoagulantes redujo significativamente el riesgo de TVP posoperatoria en comparación con el uso exclusivo de anticoagulantes.
+• Ejercicio activo vs. pasivo: Los ejercicios activos (realizados de forma voluntaria por el paciente) mostraron una reducción de riesgo constante e importante sin heterogeneidad entre estudios.
+• Los ejercicios asistidos presentaron resultados heterogéneos y sin significancia estadística.
+• Aborda simultáneamente la estasis venosa (mediante la contracción muscular de la pantorrilla) y la hipercoagulabilidad (mediante los fármacos) (2 causas principales).
+• Debido a limitaciones metodológicas, falta de detalles sobre el cegamiento en los estudios primarios y un posible sesgo de publicación, lo calificaron como bajo en certeza general",https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2026.1899435/full,Artículo
+Guía de Práctica Clínica para el Diagnóstico y Tratamiento de Trombosis Venosa Profunda - Hospital Regional del Cusco,"El documento estandariza los criterios técnicos, procedimentales y clínicos para el manejo de la trombosis venosa profunda (TVP).",Tratamiento/recuperación,"  • Establece las pautas asistenciales para el diagnóstico y tratamiento de la Trombosis Venosa Profunda (TVP) en el Servicio de Medicina Interna del Hospital Regional de Cusco.
+  • Define la TVP como la oclusión de un vaso sanguíneo por un coágulo o émbolo, fundamentada en la tríada de Virchow (estasis venosa, lesión endotelial e hipercoagulabilidad).
+  • Identifica como manifestaciones clínicas principales el dolor en el miembro afectado, edema de extremidad, eritema, calor local y dificultad para deambular.
+  • Clasifica la probabilidad clínica de la enfermedad mediante el uso del Score de Wells.
+  • Establece al Dímero D (sensibilidad del 94%) como prueba clave para descartar la condición en caso de valor negativo, y a la ecografía Doppler venosa como la prueba de imagen de elección (sensibilidad del 97%).
+  • Define la terapia farmacológica de fase aguda basada en anticoagulación con heparinas de bajo peso molecular (enoxaparina, dalteparina) o heparina sódica no fraccionada en pacientes con enfermedad renal avanzada.
+  • Incluye criterios para identificar complicaciones graves como la tromboembolia pulmonar (TEP) y pautas para la referencia o contrareferencia del paciente según el nivel de complejidad del establecimiento.","https://hrcusco.gob.pe/wp-content/uploads/2026/01/33-GPC-PARA-DIAGNOSTICO-Y-TRATAMIENTO-DE-TROMBOSIS-VENOSA-PROFUNDA.pdf ",Resolución directoral
+"Deep Venous Thrombosis of
+the Upper and Lower Extremity","Detalla la TVP (Trombosis Venosa Profunda) tanto en miembros inferiores como superiores. Aspectos anatómicos, la alta incidencia de embolia pulmonar asociada principalmente a las venas proximales de las piernas, el impacto económico y epidemiológico en el sistema de salud, así como los factores de riesgo, métodos diagnósticos y las opciones de tratamiento anticoagulante y quirúrgico.",Porcentajes y métricas,"
+• Define la TVP y distingue entre la TVP de extremidad superior (venas braquiales, axilares, ulnares, etc.) y la de extremidad inferior (dividida en distal y proximal).
+• Destaca que más del 90% de los embolismos pulmonares agudos se originan en las venas proximales de las extremidades inferiores. Muestra que la TVP proximal tiene un riesgo de embolización del 15% al 32%, mientras que la TVP de extremidad superior solo presenta un 2% de riesgo de provocar embolia pulmonar.
+• El tromboembolismo venoso (TEV) es la tercera enfermedad cardiovascular más frecuente después del síndrome coronario agudo y el ictus. Se estima que la TVP afecta a cerca de 900,000 personas al año en EE. UU., representando la extremidad superior el 10% de todos los casos.
+• El costo medio anual por paciente atendido es de aproximadamente $10,000 y que la tasa de reingreso hospitalario a un año oscila entre el 5.3% y el 14%.
+• Menciona factores de riesgo, los signos y síntomas característicos, los métodos de diagnóstico y las opciones de tratamiento para prevenir complicaciones graves y recurrentes ( anticoagulantes y cirugía).","https://www.ovid.com/jnls/ccnq/fulltext/10.1097/cnq.0000000000000165~deep-venous-thrombosis-of-the-upper-and-lower-extremity ",Artículo
+CDC Grand Rounds: Preventing Hospital-Associated Venous Thromboembolism,"
+Muestra cómo la implementación de evaluaciones obligatorias y ""órdenes electrónicas inteligentes"" (smart order sets) logró aumentar la profilaxis adecuada al 85% y reducir drásticamente los eventos de TEV sintomáticos y prevenibles. Plus, destaca la necesidad de mejores sistemas de monitoreo para rastrear los casos de TEV a nivel poblacional, evaluar la efectividad de las herramientas de riesgo y fomentar una cultura de seguridad del paciente en los centros de salud.
+",Implementación tecnológica,"  • Transición tecnológica: En un inicio, utilizaron formularios en papel para guiar a los médicos en la estratificación de riesgo, lo que aumentó la prescripción de profilaxis adecuada del 26% al 68% en pacientes quirúrgicos. Sin embargo, al ser un proceso manual complejo y difícil de auditar, diseñaron ordenes electrónicas inteligentes (smart order sets) integradas de manera obligatoria al ingresar o trasladar a un paciente.
+ • Resultados alcanzados: Con las órdenes electrónicas obligatorias, la tasa de prescripción de profilaxis adecuada subió a un 85%, logrando evaluar el riesgo del 100% de los pacientes ingresados.
+ • Impacto en los pacientes: Un estudio comparativo en pacientes médicos mostró una reducción del 67% en episodios confirmados de TEV sintomática a los 90 días del alta (cayó del 2,5% al 0,7%) y una reducción del 100% en eventos potencialmente prevenibles (pasando del 1,1% a cero), sin generar un incremento en sangrados mayores.
+• Pautas clínicas codificadas (Lógica de reglas): Los especialistas tradujeron las guías clínicas de prevención de tromboembolia venosa (TEV) en algoritmos condicionales simples (del tipo ""Si el paciente presenta X factor de riesgo y NO tiene Y contraindicación de sangrado, entonces recomendar Z fármaco"").
+
+ ",https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6309a3.htm?s_cid=mm6309a3_x,Reporte clínico
